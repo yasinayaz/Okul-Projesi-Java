@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53ebefc9-8c27-43e5-9ae9-a5a8b6961349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OkulProjesi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulProje/Depo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulProje/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulProje/Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulProje/Okul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/okulProje/_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/okulProje/_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/okulProje/_Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

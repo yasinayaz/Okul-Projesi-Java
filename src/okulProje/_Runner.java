@@ -7,6 +7,8 @@ public class _Runner {
         Ogretmen.feykOgretmenEkle();
         Ogrenci.feykOgrenciEkle();
         Depo.anaMenu();
+
+        System.out.println("that's it");
     }
 
 
